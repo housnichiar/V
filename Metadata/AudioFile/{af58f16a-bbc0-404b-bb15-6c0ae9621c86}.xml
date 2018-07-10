@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{af58f16a-bbc0-404b-bb15-6c0ae9621c86}">
+        <property name="assetPath">
+            <value>Ellie Goulding - Burn.ogg</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>238.1424036281179</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4e4c25cd-0dfe-4610-8017-4a83614e4377}</destination>
+        </relationship>
+    </object>
+</objects>

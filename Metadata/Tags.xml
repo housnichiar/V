@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="MasterTagFolder" id="{9ffbb36d-8b18-4216-a8d5-fd18cb12b71b}">
+        <property name="name">
+            <value>Master</value>
+        </property>
+        <relationship name="items">
+            <destination>{1022bec4-9ae1-4673-9ab8-afb140e71c7b}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{1022bec4-9ae1-4673-9ab8-afb140e71c7b}">
+        <property name="name">
+            <value>menu</value>
+        </property>
+        <relationship name="folder">
+            <destination>{9ffbb36d-8b18-4216-a8d5-fd18cb12b71b}</destination>
+        </relationship>
+    </object>
+</objects>
